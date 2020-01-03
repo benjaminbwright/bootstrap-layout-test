@@ -1,0 +1,14 @@
+header {
+    background: #eee;
+    border-bottom: 3px solid #787878;
+}
+
+#header-nav-container {
+    /* background: green;
+    height: 2em; */
+}
+
+#header-nav-container #brand {
+    background: green;
+    color: #eee;
+}
